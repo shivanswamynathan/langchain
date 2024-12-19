@@ -1,0 +1,6 @@
+langchain
+dotenv
+langchain_core
+langchain_google_genai
+langchain_community
+streamlit
